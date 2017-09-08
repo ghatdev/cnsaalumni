@@ -13,5 +13,5 @@ func main() {
 	})
 
 	//e.Start(":80")
-	e.Logger.Fatal(e.StartAutoTLS("https://cnsaalumni.org"))
+	e.Logger.Fatal(e.StartAutoTLS(":443"))
 }
