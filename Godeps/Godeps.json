@@ -1,0 +1,52 @@
+{
+	"ImportPath": "cnsaalumni",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/labstack/gommon/color",
+			"Comment": "0.2.2",
+			"Rev": "779b8a8b9850a97acba6a3fe20feb628c39e17c1"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/log",
+			"Comment": "0.2.2",
+			"Rev": "779b8a8b9850a97acba6a3fe20feb628c39e17c1"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Comment": "v0.0.9-6-gad5389d",
+			"Rev": "ad5389df28cdac544c99bd7b9161a0b5b6ca9d1b"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Comment": "v0.0.2",
+			"Rev": "fc9e8d8ef48496124e79ae0df75490096eccf6fe"
+		},
+		{
+			"ImportPath": "github.com/valyala/bytebufferpool",
+			"Rev": "e746df99fe4a3986f4d4f79e13c1e0117ce9c2f7"
+		},
+		{
+			"ImportPath": "github.com/valyala/fasttemplate",
+			"Rev": "dcecefd839c4193db0d35b88ec65b4c12d360ab0"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme",
+			"Rev": "0fe963104e9d1877082f8fb38f816fcd97eb1d10"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme/autocert",
+			"Rev": "0fe963104e9d1877082f8fb38f816fcd97eb1d10"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "a45f55524b7ec57890cfa6c6bc06b47f877be0d1"
+		},
+		{
+			"ImportPath": "gopkg.in/labstack/echo.v3",
+			"Comment": "v3.2.1",
+			"Rev": "935a60782cbbc55110e7bd4b33120e4567cbee43"
+		}
+	]
+}
