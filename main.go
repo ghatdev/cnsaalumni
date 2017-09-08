@@ -13,5 +13,5 @@ func main() {
 	})
 
 	//e.Start(":80")
-	e.Logger.Fatal(e.StartAutoTLS(":443"))
+	e.Logger.Fatal(e.Start(":80"))
 }
